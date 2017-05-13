@@ -1,4 +1,4 @@
-FROM gcc:6
+FROM gcc:7
 
 MAINTAINER James Clark <james.clark@stfc.ac.uk>
 
