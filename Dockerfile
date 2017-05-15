@@ -17,4 +17,4 @@ RUN set -x \
 	&& make -j"$(nproc)" \
 	&& make install \
 	&& cd .. \
-	&& rm -rf "$dir" \
+	&& rm -rf "$dir" /usr/src/* \
