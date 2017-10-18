@@ -1,4 +1,4 @@
-FROM gcc:7
+FROM jameshclrk/dev:latest
 
 MAINTAINER James Clark <james.clark@stfc.ac.uk>
 
